@@ -7,7 +7,7 @@
 | 6.11.2025 | 2 | Cisco/netacad module 3 | Finished quiz 3 |
 | 7.11.2025 | 2 | Cisco/netacad module 4 | Finished quiz 4 |
 | 8.11.2025 | 3 | Cisco/netacad module 5 | Finished quiz 5 + introduction exam |
-| 13.11.2025 | 1 | PortSwigger | SQL1 + Access1 labs done |
-| 15.11.2025 | 2 | PortSwigger | SQL2 + Access2 + Authentication1 labs |
-| 16.11.2025 | 3 | PortSwigger | SQL3 + Authentication2 + Authentication3 + Information disclosure1 labs |
-| 17.11.2025 | 1 | PortSwigger | Information disclosure2 + Information disclosure3 + Information disclosure4 labs |
+| 13.11.2025 | 1 | PortSwigger | labs: SQL1 + Access1 |
+| 15.11.2025 | 2 | PortSwigger | labs: SQL2 + Access2 + Authentication1 |
+| 16.11.2025 | 3 | PortSwigger | labs: SQL3 + Authentication2 + Authentication3 + Information disclosure1 |
+| 17.11.2025 | 1 | PortSwigger | labs: Information disclosure2 + Information disclosure3 + Information disclosure4 |
