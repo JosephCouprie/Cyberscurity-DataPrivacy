@@ -21,6 +21,8 @@ Total : 48h
 | 24.11.2025 | 2 | Course | Online Course |
 | 26.11.2025 | 3 | Project | Part 1 - Phase 1; breach finding |
 | 28.11.2025 | 3 | Project | Part 1 - Phase 1; report |
+| 02.12.2025 | 1 | Project | Phase 1 - Part 2; breach testing |
+| 02.12.2025 | 3 | Project | Phase 1 - Part 2; report |
 | 4.12.2025 | 2 | Course | Online Course |
 | 9.12.2025 | 4 | Course | Online Course |
 | 11.12.2025 | 2 | Course | Online Course |
