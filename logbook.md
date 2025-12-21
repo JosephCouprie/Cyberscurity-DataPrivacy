@@ -1,8 +1,8 @@
 # Logbook
 
-Total : 69h
+Total : 70h
 
-Number of labs : 12
+Number of labs : 14
 
 | Date  | Used hours | Subject(s) | Outcome(s) |
 | :--- | :---: | :---: | :---: |
@@ -32,6 +32,6 @@ Number of labs : 12
 | 11.12.2025 | 2 | Course | Online Course |
 | 17.12.2025 | 3 | Project | Phase 3 |
 | 17.12.2025 | 3 | Project | Phase 3 |
-| 18.12.2025 | 2 | Project | Phase 4 |
+| 18.12.2025 | 3 | Project | Phase 4 |
 | 18.12.2025 | 4 | Course | Online Course |
 | 21.12.2025 | 2 | PortSwigger | Labs: Information disclosure5 + Access control3|
