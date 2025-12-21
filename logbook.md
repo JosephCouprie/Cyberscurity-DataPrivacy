@@ -1,8 +1,8 @@
 # Logbook
 
-Total : 76h
+Total : 78h
 
-Number of labs : 18
+Number of labs : 19
 
 | Date  | Used hours | Subject(s) | Outcome(s) |
 | :--- | :---: | :---: | :---: |
