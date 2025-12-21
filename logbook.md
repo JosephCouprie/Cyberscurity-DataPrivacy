@@ -34,5 +34,5 @@ Number of labs : 20
 | 17.12.2025 | 3 | Project | Phase 3 |
 | 18.12.2025 | 3 | Project | Phase 4 |
 | 18.12.2025 | 4 | Course | Online Course |
-| 21.12.2025 | 5 | PortSwigger | Labs: Information disclosure5 + Access control3 + Access control4 + Access control5 + Access control6 + Access control7 + Access control8 + Access control9 |
+| 21.12.2025 | 9 | PortSwigger | Labs: Information disclosure5 + Access control3 + Access control4 + Access control5 + Access control6 + Access control7 + Access control8 + Access control9 |
 | 21.12.2025 | 2 | Course | End of course Report |
