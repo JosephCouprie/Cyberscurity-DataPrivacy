@@ -1,6 +1,6 @@
 # Logbook
 
-Total : 78h
+Total : 79h
 
 Number of labs : 19
 
@@ -11,7 +11,7 @@ Number of labs : 19
 | 04.11.2025 | 2 | Course | Online Course |
 | 05.11.2025 | 2 | Cisco/netacad module 2 | Finished quiz 2 |
 | 06.11.2025 | 2 | Cisco/netacad module 3 | Finished quiz 3 |
-| 07.11.2025 | 2 | Cisco/netacad module 4 | Finished quiz 4 |
+| 07.11.2025 | 3 | Cisco/netacad module 4 | Finished quiz 4 |
 | 08.11.2025 | 3 | Cisco/netacad module 5 | Finished quiz 5 + introduction exam |
 | 11.11.2025 | 2 | Course | Online Course |
 | 13.11.2025 | 1 | PortSwigger | labs: SQL1 + Access control1 |
