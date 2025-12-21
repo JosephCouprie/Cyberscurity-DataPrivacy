@@ -1,6 +1,6 @@
 # Logbook
 
-Total : 67h
+Total : 69h
 
 Number of labs : 12
 
