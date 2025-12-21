@@ -14,8 +14,8 @@ Number of labs : 12
 | 7.11.2025 | 2 | Cisco/netacad module 4 | Finished quiz 4 |
 | 8.11.2025 | 3 | Cisco/netacad module 5 | Finished quiz 5 + introduction exam |
 | 11.11.2025 | 2 | Course | Online Course |
-| 13.11.2025 | 1 | PortSwigger | labs: SQL1 + Access1 |
-| 15.11.2025 | 2 | PortSwigger | labs: SQL2 + Access2 + Authentication1 |
+| 13.11.2025 | 1 | PortSwigger | labs: SQL1 + Access control1 |
+| 15.11.2025 | 2 | PortSwigger | labs: SQL2 + Access control2 + Authentication1 |
 | 16.11.2025 | 3 | PortSwigger | labs: SQL3 + Authentication2 + Authentication3 + Information disclosure1 |
 | 17.11.2025 | 1 | PortSwigger | labs: Information disclosure2 + Information disclosure3 + Information disclosure4 |
 | 18.11.2025 | 2 | Course | Online Course |
@@ -34,3 +34,4 @@ Number of labs : 12
 | 17.12.2025 | 3 | Project | Phase 3 |
 | 18.12.2025 | 2 | Project | Phase 4 |
 | 18.12.2025 | 4 | Course | Online Course |
+| 21.12.2025 | 2 | PortSwigger | Labs: Information disclosure5 + Access control3|
