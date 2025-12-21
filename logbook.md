@@ -2,7 +2,7 @@
 
 Total : 75h
 
-Number of labs : 15
+Number of labs : 17
 
 | Date  | Used hours | Subject(s) | Outcome(s) |
 | :--- | :---: | :---: | :---: |
