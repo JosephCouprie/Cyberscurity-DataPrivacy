@@ -1,6 +1,7 @@
 # Logbook
 
 Total : 67h
+Number of labs : 12
 
 | Date  | Used hours | Subject(s) | Outcome(s) |
 | :--- | :---: | :---: | :---: |
